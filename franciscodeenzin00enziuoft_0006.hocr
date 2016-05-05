@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./franciscodeenzin00enziuoft_0006.png"; bbox 0 0 2227 3392; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 749 1134 798 1954">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 749 1134 798 1954">
+     <span class='ocr_line' id='line_1_1' title="bbox 749 1134 798 1954; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 749 1716 798 1954; x_wconf 54' lang='lat' dir='ltr'>Gezer)</span> <span class='ocrx_word' id='word_1_2' title='bbox 750 1134 795 1634; x_wconf 40' lang='grc' dir='ltr'>Μεοωίἶπῑμᾶίῖ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 852 1111 1451 1969">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 852 1111 1451 1969">
+     <span class='ocr_line' id='line_1_2' title="bbox 852 1111 1451 1969; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 852 1111 1451 1969; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 859 996 1465 1051">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 859 996 1465 1051">
+     <span class='ocr_line' id='line_1_3' title="bbox 859 996 1465 1051; baseline -0.005 0"><span class='ocrx_word' id='word_1_4' title='bbox 859 996 1465 1051; x_wconf 72' lang='lat' dir='ltr'>ITALIA-ESPANA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 894 2034 1421 2172">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 894 2034 1421 2172">
+     <span class='ocr_line' id='line_1_4' title="bbox 962 2034 1361 2076; baseline 0.003 -2"><span class='ocrx_word' id='word_1_5' title='bbox 962 2034 1361 2076; x_wconf 88' lang='lat' dir='ltr'>EX-LIBRIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 894 2130 1421 2172; baseline 0.004 -3"><span class='ocrx_word' id='word_1_6' title='bbox 894 2130 1421 2172; x_wconf 76' lang='lat' dir='ltr'>M.A.BUCHANAN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1522 1130 1564 1952">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1522 1130 1564 1952">
+     <span class='ocr_line' id='line_1_6' title="bbox 1522 1130 1564 1952; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 1523 1450 1564 1952; x_wconf 45' lang='grc' dir='ltr'>»ωοῌῶῑηπᾱτ</span> <span class='ocrx_word' id='word_1_8' title='bbox 1522 1130 1564 1367; x_wconf 47' lang='lat' dir='ltr'>a»&lt;10=&lt;</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
